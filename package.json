@@ -1,7 +1,7 @@
 {
   "name": "webpack_starter",
   "version": "1.0.0",
-  "description": "This is webpack starter theme.",
+  "description": "Webpack starter config.",
   "main": "index.js",
   "bin": {
     "gen": "src/cli.js"
